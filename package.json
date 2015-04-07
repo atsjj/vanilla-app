@@ -12,9 +12,6 @@
   },
   "author": "Steve Jabour <steve@jabour.me>",
   "license": "MIT",
-  "keywords": [
-    "ember-addon"
-  ],
   "dependencies": {
     "broccoli-es6modules": "^0.5.1",
     "broccoli-funnel": "0.2.2",
