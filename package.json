@@ -1,0 +1,25 @@
+{
+  "name": "vanilla-app",
+  "version": "0.0.0",
+  "description": "A vanilla application base for use with Ember CLI.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "github.com/atsjj/vanilla-app"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "Steve Jabour <steve@jabour.me>",
+  "license": "MIT",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "broccoli-es6modules": "^0.5.1",
+    "broccoli-funnel": "0.2.2",
+    "broccoli-unwatched-tree": "0.1.1",
+    "ember-cli": "0.2.2",
+    "lodash": "^3.6.0"
+  }
+}
